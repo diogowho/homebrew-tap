@@ -1,8 +1,8 @@
 cask "scrobblekit" do
   arch arm: "arm64"
 
-  version "v1.0-rc.1"
-  sha256 "fdbb32c690027a97dd441ec9e7ef20200c88ec773f899ef0c22119a2b1df752f"
+  version "v1.0-rc.2"
+  sha256 "350c1e86bf8ee6eb3e96538edd86ed1c4a5b479743eeea02eb06539a2229bfbe"
 
   url "https://github.com/diogowho/ScrobbleKit/releases/download/#{version}/ScrobbleKit.zip"
   name "ScrobbleKit"
